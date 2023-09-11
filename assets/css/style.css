@@ -36,7 +36,10 @@ html {
     background-color: #fa825d;
     border-color: #fa825d;
 }
-
+.btn-outline-success {
+    color: #fa825d;
+    border-color: #fa825d;
+}
 /* end nav */
 /* start hero */
 .end-hero .btn {
